@@ -13,10 +13,10 @@ This study explores integrating digital twin technology with robotic multi-axis 
 - **NX Siemens Files:** Simulation of robotic paths and scans of printed parts in NX Siemens.
 - **Laser Tracker - Raw data:** Raw data from laser tracker from measuring the printing pad and robot motion.
 - **Python Files:** Scripts for visualizing the bilinear interpolation of the printing pad and visualization of the real robot paths from:
-  1. Laser tracker measuring
-  2. Virtual robot controller
-  3. Real robot controller
-  4. CAM - NX Siemens
+  I. Laser tracker measuring
+  II. Virtual robot controller
+  III. Real robot controller
+  IV. CAM - NX Siemens
 
 # Key Features
 
