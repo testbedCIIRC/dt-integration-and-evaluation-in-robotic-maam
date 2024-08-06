@@ -7,8 +7,6 @@ This study explores integrating digital twin technology with robotic multi-axis 
 
 # Project Contents
 
-# Project Contents
-
 - **Robot Files:** KRL codes for the robotic controller.
 - **NX Siemens Files:** Simulation of robotic paths and scans of printed parts in NX Siemens.
 - **Laser Tracker - Raw data:** Raw data from laser tracker from measuring the printing pad and robot motion.
