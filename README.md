@@ -22,3 +22,6 @@ This study explores integrating digital twin technology with robotic multi-axis 
 - **Laser Tracker Utilization:** A laser tracker is employed to calibrate the machine workspace and tools, introducing a system that combines an industrial robot with a filament extruder head and a rotary-tilt positioner.
 - **Automated Code Generation:** The digital twin automates the generation of robotic operation codes, encapsulating the geometric and operational intricacies of the manufacturing process.
 - **Demonstration through Complex Parts:** The methodology's application is demonstrated through the production of two complex parts, assessing their dimensional fidelity to evaluate the precision limits of digital twin technology.
+
+# Video
+<iframe width="560" height="315" src="https://youtu.be/Vr6lDgBZacE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
