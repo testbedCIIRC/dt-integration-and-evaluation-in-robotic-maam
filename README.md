@@ -24,11 +24,5 @@ This study explores integrating digital twin technology with robotic multi-axis 
 - **Demonstration through Complex Parts:** The methodology's application is demonstrated through the production of two complex parts, assessing their dimensional fidelity to evaluate the precision limits of digital twin technology.
 
 # Video
-<iframe width="560" height="315" src="https://youtu.be/Vr6lDgBZacE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/Vr6lDgBZacE" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 [![Watch the video](https://img.youtube.com/vi/Vr6lDgBZacE/0.jpg)](https://youtu.be/Vr6lDgBZacE)
+[![Watch the video](https://img.youtube.com/vi/unyc6g1iy5o/0.jpg)](https://youtu.be/unyc6g1iy5o)
