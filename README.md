@@ -25,3 +25,17 @@ This study explores integrating digital twin technology with robotic multi-axis 
 [![Watch the video](https://img.youtube.com/vi/unyc6g1iy5o/0.jpg)](https://youtu.be/unyc6g1iy5o)
 [![Watch the video](https://img.youtube.com/vi/W30Yxqppxts/0.jpg)](https://youtu.be/W30Yxqppxts)
 [![Watch the video](https://img.youtube.com/vi/HVP27mbQvT0/0.jpg)](https://youtu.be/HVP27mbQvT0)
+
+# Images
+
+
+https://github.com/user-attachments/assets/edb3b10b-a854-42ed-a74e-0595f7149c7e
+
+
+
+https://github.com/user-attachments/assets/ab8bf80f-b06d-45a9-9ae2-311f409b0b48
+
+![Printing a top of Propeler](https://github.com/user-attachments/assets/ef6c751e-386d-439f-a423-c79b80189102)
+![Printing part in process - Propeler](https://github.com/user-attachments/assets/7ef9c0d4-8b67-4296-86e8-d34b701bb172)
+![Printed parts](https://github.com/user-attachments/assets/3bead796-3170-4e16-b283-efffe2a9cd4f)
+![Printed part - Screw](https://github.com/user-attachments/assets/fcb8079a-1325-4d09-a72a-88f3d829035b)
