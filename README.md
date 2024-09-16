@@ -21,5 +21,9 @@ This study explores integrating digital twin technology with robotic multi-axis 
 [![Watch the video](https://img.youtube.com/vi/HVP27mbQvT0/0.jpg)](https://youtu.be/HVP27mbQvT0)
 [![Watch the video](https://img.youtube.com/vi/unyc6g1iy5o/0.jpg)](https://youtu.be/unyc6g1iy5o)
 
+# Videos - Augmented Reality Control - Training and Operation
+[![Watch the video](https://img.youtube.com/vi/raUTKcHXZYA/0.jpg)](https://youtu.be/raUTKcHXZYA)
+[![Watch the video](https://img.youtube.com/vi/76P3DbbzgPQ/0.jpg)](https://youtu.be/76P3DbbzgPQ)
+
 # Images
 ![Printed parts](https://github.com/user-attachments/assets/3bead796-3170-4e16-b283-efffe2a9cd4f)
