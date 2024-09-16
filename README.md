@@ -20,6 +20,9 @@ This study explores integrating digital twin technology with robotic multi-axis 
 - **Automated Code Generation:** The digital twin automates the generation of robotic operation codes, encapsulating the geometric and operational intricacies of the manufacturing process.
 - **Demonstration through Complex Parts:** The methodology's application is demonstrated through the production of two complex parts, assessing their dimensional fidelity to evaluate the precision limits of digital twin technology.
 
+# Promo Video
+[![Watch the video](https://img.youtube.com/vi/SjEa4ZcAiks/0.jpg)](https://youtu.be/SjEa4ZcAiks)
+
 # Videos
 [![Watch the video](https://img.youtube.com/vi/Vr6lDgBZacE/0.jpg)](https://youtu.be/Vr6lDgBZacE)
 [![Watch the video](https://img.youtube.com/vi/unyc6g1iy5o/0.jpg)](https://youtu.be/unyc6g1iy5o)
