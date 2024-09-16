@@ -16,10 +16,10 @@ This study explores integrating digital twin technology with robotic multi-axis 
 [![Watch the video](https://img.youtube.com/vi/SjEa4ZcAiks/0.jpg)](https://youtu.be/SjEa4ZcAiks)
 
 # Videos
-[![Watch the video](https://img.youtube.com/vi/Vr6lDgBZacE/0.jpg)](https://youtu.be/Vr6lDgBZacE)
-[![Watch the video](https://img.youtube.com/vi/unyc6g1iy5o/0.jpg)](https://youtu.be/unyc6g1iy5o)
 [![Watch the video](https://img.youtube.com/vi/W30Yxqppxts/0.jpg)](https://youtu.be/W30Yxqppxts)
+[![Watch the video](https://img.youtube.com/vi/Vr6lDgBZacE/0.jpg)](https://youtu.be/Vr6lDgBZacE)
 [![Watch the video](https://img.youtube.com/vi/HVP27mbQvT0/0.jpg)](https://youtu.be/HVP27mbQvT0)
+[![Watch the video](https://img.youtube.com/vi/unyc6g1iy5o/0.jpg)](https://youtu.be/unyc6g1iy5o)
 
 # Images
 ![Printed parts](https://github.com/user-attachments/assets/3bead796-3170-4e16-b283-efffe2a9cd4f)
