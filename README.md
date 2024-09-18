@@ -15,9 +15,11 @@ This study explores integrating digital twin technology with robotic multi-axis 
 # Promo Video
 [![Watch the video](https://img.youtube.com/vi/SjEa4ZcAiks/0.jpg)](https://youtu.be/SjEa4ZcAiks)
 
-# Videos
+# Videos - Calibration Procedures
 [![Watch the video](https://img.youtube.com/vi/W30Yxqppxts/0.jpg)](https://youtu.be/W30Yxqppxts)
 [![Watch the video](https://img.youtube.com/vi/Vr6lDgBZacE/0.jpg)](https://youtu.be/Vr6lDgBZacE)
+
+# Videos - Simulation and Manufacturing
 [![Watch the video](https://img.youtube.com/vi/HVP27mbQvT0/0.jpg)](https://youtu.be/HVP27mbQvT0)
 [![Watch the video](https://img.youtube.com/vi/KaORAfb8s38/0.jpg)](https://youtu.be/KaORAfb8s38)
 [![Watch the video](https://img.youtube.com/vi/unyc6g1iy5o/0.jpg)](https://youtu.be/unyc6g1iy5o)
